@@ -1,0 +1,12 @@
+{
+    "ctda/-ax=XwmKM_0h;1Z": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P//AAAAAAD/3ZkPAA8AAN+f3f/wAPDw3939/f//D/Dd3f393d0P8N3d/f3//w/w35/d//AA8AD/3ZkPAA8AAPD//w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "timmy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
